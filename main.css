@@ -35,3 +35,18 @@ body {
 	float: left;
 	margin-right:3%;
 }
+
+h1 {
+	padding: 1rem;
+	border: 3rem;
+	text-align: justify;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+	text-align: justify;
+	padding: 1rem;
+	border: 3rem;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight: bolder;
+}
